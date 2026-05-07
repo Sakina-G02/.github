@@ -13,5 +13,5 @@ CPCS499 | Group C02 | King Abdulaziz University
 </p>
 
 <p align="center">
-  <img src="poster.png" width="800"/>
+  <img src="poster.jpg" width="800"/>
 </p>
